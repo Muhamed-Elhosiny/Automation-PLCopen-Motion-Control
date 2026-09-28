@@ -27,6 +27,7 @@ Each case follows the same engineering format:
 - [06 — Industrial Controller Network/Gateway Reconfiguration](06-network-gateway-reconfiguration.md)
 - [07 — 24 V Supply Collapse When Controller Was Connected](07-power-supply-voltage-collapse.md)
 - [08 — Multi-Axis Velocity Scaling Mismatch](08-multi-axis-scaling-mismatch.md)
+- [09 — EtherCAT Topology and Slave-Count Mismatch](09-ethercat-topology-slave-count-mismatch.md)
 
 ## Confidentiality
 
