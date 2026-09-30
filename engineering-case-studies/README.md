@@ -29,6 +29,7 @@ Each case follows the same engineering format:
 - [08 — Multi-Axis Velocity Scaling Mismatch](08-multi-axis-scaling-mismatch.md)
 - [09 — EtherCAT Topology and Slave-Count Mismatch](09-ethercat-topology-slave-count-mismatch.md)
 - [10 — EtherCAT Vendor-ID / ESI Identity Mismatch](10-ethercat-vendor-id-esi-mismatch.md)
+- [11 — Cyclic Velocity Command Rejected by Invalid Trajectory Parameters](11-csv-invalid-trajectory-parameters.md)
 
 ## Confidentiality
 
