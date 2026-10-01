@@ -30,6 +30,7 @@ Each case follows the same engineering format:
 - [09 — EtherCAT Topology and Slave-Count Mismatch](09-ethercat-topology-slave-count-mismatch.md)
 - [10 — EtherCAT Vendor-ID / ESI Identity Mismatch](10-ethercat-vendor-id-esi-mismatch.md)
 - [11 — Cyclic Velocity Command Rejected by Invalid Trajectory Parameters](11-csv-invalid-trajectory-parameters.md)
+- [12 — Drive Enabled but No Motion: Isolating a Physical Connection Fault](12-drive-enabled-but-no-motion.md)
 
 ## Confidentiality
 
