@@ -32,6 +32,7 @@ Each case follows the same engineering format:
 - [11 — Cyclic Velocity Command Rejected by Invalid Trajectory Parameters](11-csv-invalid-trajectory-parameters.md)
 - [12 — Drive Enabled but No Motion: Isolating a Physical Connection Fault](12-drive-enabled-but-no-motion.md)
 - [13 — EtherCAT State-Change Command Completed but Requested State Was Not Reached](13-ethercat-state-feedback-semantics.md)
+- [14 — Diagnosing Multiple Cycle-Time Settings in a Real-Time EtherCAT System](14-ethercat-cycle-time-configuration-layers.md)
 
 ## Confidentiality
 
