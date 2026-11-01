@@ -35,6 +35,7 @@ Each case follows the same engineering format:
 - [14 — Diagnosing Multiple Cycle-Time Settings in a Real-Time EtherCAT System](14-ethercat-cycle-time-configuration-layers.md)
 - [15 — Servo Controlword Stuck During CiA 402 Enable Sequence](15-controlword-stuck-enable-sequence.md)
 - [16 — Distinguishing EtherCAT Timing Outliers from Communication Breakdown](16-ethercat-load-test-correlation.md)
+- [17 — FoE Local File Path and Filesystem Permission Boundaries](17-foe-local-file-path-permissions.md)
 
 ## Confidentiality
 
