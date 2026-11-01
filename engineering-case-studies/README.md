@@ -36,6 +36,7 @@ Each case follows the same engineering format:
 - [15 — Servo Controlword Stuck During CiA 402 Enable Sequence](15-controlword-stuck-enable-sequence.md)
 - [16 — Distinguishing EtherCAT Timing Outliers from Communication Breakdown](16-ethercat-load-test-correlation.md)
 - [17 — FoE Local File Path and Filesystem Permission Boundaries](17-foe-local-file-path-permissions.md)
+- [18 — FoE Bootstrap State-Control Workflow and Operator Diagnostics](18-foe-bootstrap-state-workflow.md)
 
 ## Confidentiality
 
