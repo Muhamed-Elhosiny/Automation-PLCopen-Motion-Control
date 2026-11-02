@@ -38,6 +38,8 @@ Each case follows the same engineering format:
 - [17 — FoE Local File Path and Filesystem Permission Boundaries](17-foe-local-file-path-permissions.md)
 - [18 — FoE Bootstrap State-Control Workflow and Operator Diagnostics](18-foe-bootstrap-state-workflow.md)
 
+- [19 — Debugger-Attach Timing Outlier in PLC Cycle-Time Measurements](19-debugger-attach-timing-measurement.md)
+
 ## Confidentiality
 
 The case studies intentionally exclude proprietary source code, internal IP addresses, customer data, credentials, unpublished implementation details, and other confidential information. Technical descriptions are generalized while preserving the engineering reasoning and lessons learned.
