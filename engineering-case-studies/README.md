@@ -37,8 +37,8 @@ Each case follows the same engineering format:
 - [16 — Distinguishing EtherCAT Timing Outliers from Communication Breakdown](16-ethercat-load-test-correlation.md)
 - [17 — FoE Local File Path and Filesystem Permission Boundaries](17-foe-local-file-path-permissions.md)
 - [18 — FoE Bootstrap State-Control Workflow and Operator Diagnostics](18-foe-bootstrap-state-workflow.md)
-
 - [19 — Debugger-Attach Timing Outlier in PLC Cycle-Time Measurements](19-debugger-attach-timing-measurement.md)
+- [20 — Decoding a Drive Firmware Identifier from an EtherCAT SDO Read](20-ethercat-sdo-firmware-string-decoding.md)
 
 ## Confidentiality
 
