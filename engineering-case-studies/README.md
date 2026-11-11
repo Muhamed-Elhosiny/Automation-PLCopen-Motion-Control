@@ -39,6 +39,7 @@ Each case follows the same engineering format:
 - [18 — FoE Bootstrap State-Control Workflow and Operator Diagnostics](18-foe-bootstrap-state-workflow.md)
 - [19 — Debugger-Attach Timing Outlier in PLC Cycle-Time Measurements](19-debugger-attach-timing-measurement.md)
 - [20 — Decoding a Drive Firmware Identifier from an EtherCAT SDO Read](20-ethercat-sdo-firmware-string-decoding.md)
+- [21 — Motion-Profile Cycle Time and Observed Servo Vibration](21-motion-profile-cycle-time-vibration.md)
 
 ## Confidentiality
 
