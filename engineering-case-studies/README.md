@@ -40,6 +40,7 @@ Each case follows the same engineering format:
 - [19 — Debugger-Attach Timing Outlier in PLC Cycle-Time Measurements](19-debugger-attach-timing-measurement.md)
 - [20 — Decoding a Drive Firmware Identifier from an EtherCAT SDO Read](20-ethercat-sdo-firmware-string-decoding.md)
 - [21 — Motion-Profile Cycle Time and Observed Servo Vibration](21-motion-profile-cycle-time-vibration.md)
+- [22 — Motion Command Completion Gated by Target-Reached Feedback](22-motion-command-target-reached-gating.md)
 
 ## Confidentiality
 
